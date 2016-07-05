@@ -1,0 +1,10 @@
+2016-06-14 11:52:49,292 [EventPumpThread] ERROR NUnitAllureAdapter.AllureEventListener - Exception in SuiteFinished "NUnit.Core.TestResult"
+AllureCSharpCommons.Exceptions.AllureException: Results path directory doesn't exist.Please create results path directory.
+   at AllureCSharpCommons.Utils.AllureResultsUtils.get_TestSuitePath()
+   at AllureCSharpCommons.Allure.Fire(ITestSuiteEvent evt)
+   at NUnitAllureAdapter.AllureEventListener.SuiteFinished(TestResult result)
+2016-06-14 11:52:51,210 [EventPumpThread] ERROR NUnitAllureAdapter.AllureEventListener - Exception in SuiteFinished "NUnit.Core.TestResult"
+AllureCSharpCommons.Exceptions.AllureException: Results path directory doesn't exist.Please create results path directory.
+   at AllureCSharpCommons.Utils.AllureResultsUtils.get_TestSuitePath()
+   at AllureCSharpCommons.Allure.Fire(ITestSuiteEvent evt)
+   at NUnitAllureAdapter.AllureEventListener.SuiteFinished(TestResult result)

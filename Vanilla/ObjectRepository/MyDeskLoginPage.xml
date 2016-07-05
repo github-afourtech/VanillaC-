@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LoginPage>
+	<username>
+	  <id>username</id>
+	</username>
+  <password>
+	  <id>login</id>
+	</password>
+	<signInBtn>
+	  <xpath>//button[contains(.,'Log in')]</xpath>
+	</signInBtn>
+  <searchTextBox>
+    <xpath>//input[contains(@class,'search-form-control')]</xpath>
+  </searchTextBox>
+  <logout>
+    <xpath>//a[contains(@href,'/Login/LogOut')]/div</xpath>
+  </logout>
+</LoginPage>

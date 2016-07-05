@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HomePage>
+	<logout>
+    <xpath>//a[contains(@href,'/Login/LogOut')]/div</xpath>
+  </logout>
+</HomePage>

@@ -1,0 +1,42 @@
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\Vanilla.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\Vanilla.pdb
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\Newtonsoft.Json.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\nunit.core.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\nunit.core.interfaces.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\nunit.framework.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\nunit.util.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\WebDriver.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\WebDriver.Support.dll
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\Newtonsoft.Json.xml
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\nunit.framework.xml
+C:\Vanilla\Vanilla\Vanilla\bin\Debug\WebDriver.xml
+C:\Vanilla\Vanilla\Vanilla\obj\Debug\Vanilla.dll
+C:\Vanilla\Vanilla\Vanilla\obj\Debug\Vanilla.pdb
+C:\Vanilla\Vanilla\Vanilla\obj\Debug\Vanilla.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\Vanilla.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\Vanilla.pdb
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\nunit.core.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\nunit.util.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\obj\Debug\Vanilla.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla 10 June\Vanilla\Vanilla\obj\Debug\Vanilla.pdb
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\Vanilla.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\Vanilla.pdb
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\AllureCSharpCommons.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\nunit.core.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\nunit.util.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\obj\Debug\Vanilla.dll
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\obj\Debug\Vanilla.pdb
+C:\Users\Administrator\Desktop\Shrilekha\Vanilla10June\Vanilla\Vanilla\obj\Debug\Vanilla.csprojResolveAssemblyReference.cache

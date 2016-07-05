@@ -1,0 +1,5 @@
+{ 
+'applicationURL':'http://mydesk.afourtech.com/',
+  'browser':'chrome',
+  'timeout': 10
+ }
